@@ -10,9 +10,9 @@ Le logiciel de gestion de votre commerce. Vos ventes, votre stock, vos clients e
 
 | Votre ordinateur | Le fichier à prendre |
 | --- | --- |
-| **Windows** 10 ou 11 | `Asi Setup ....exe` |
-| **Mac** à puce Apple (M1, M2, M3, M4 ou plus récente) | `Asi-...-arm64.dmg` |
-| **Mac** à processeur Intel | `Asi-...-x64.dmg` |
+| **Windows** 10 ou 11 | celui qui finit par **`.exe`** |
+| **Mac** à puce Apple (M1, M2, M3, M4 ou plus récente) | celui qui finit par **`arm64.dmg`** |
+| **Mac** à processeur Intel | celui qui finit par **`x64.dmg`** |
 
 ### Vous ne savez pas quel Mac vous avez
 
@@ -22,7 +22,7 @@ Menu Pomme, en haut à gauche de l'écran, puis « À propos de ce Mac ». Si vo
 
 ## Installer sur Windows
 
-1. Lancez le fichier `Asi Setup ....exe` que vous venez de télécharger.
+1. Lancez le fichier `.exe` que vous venez de télécharger.
 
 2. Windows affichera un avertissement bleu : « Windows a protégé votre PC ». C'est attendu, et votre ordinateur n'a rien détecté d'anormal. Windows prévient simplement qu'il ne connaît pas l'éditeur du programme.
 
